@@ -12,21 +12,27 @@ In this project, we aim to find the likelihood of a customer leaving the organiz
 #  **Business Understanding**
 
 # Introduction
-# Customer churn is a big concern for many organisations and companies in business today. This project is designed to analyze the probability of customers leaving the organization, identify crucial indicators of churn, and propose actionable retention strategies to mitigate this issue.
-# **Project Description;** The aim of this project is to build a roobust machine learning pipeline to predict whether certain customers will churn from the organization or not. Predictive modeling will be done after deep analysis of the dataset provided by the marketing team. 
+Customer churn is a big concern for many organisations and companies in business today. This project is designed to analyze the probability of customers leaving the organization, identify crucial indicators of churn, and propose actionable retention strategies to mitigate this issue.
+# **Project Description;**
+ The aim of this project is to build a roobust machine learning pipeline to predict whether certain customers will churn from the organization or not. Predictive modeling will be done after deep analysis of the dataset provided by the marketing team. 
 
 #  **The Hypothesis**
 
-# **Null Hypothesis:** The monthly subscription cost  has no significant effect on customer churn (Churn) from the safari network service.. 
+# **Null Hypothesis:** 
 
-# **Alternative Hypothesis:** The monthly subscription cost  has a significant effect on customer churn (Churn) from the safari network service.. 
+The monthly subscription cost  has no significant effect on customer churn (Churn) from the safari network service.. 
+
+# **Alternative Hypothesis:** 
+
+The monthly subscription cost  has a significant effect on customer churn (Churn) from the safari network service.. 
+
 # **The Analytical Questions**
 
-# 1. What are the key factors influencing customer churn in the organization?
-# 2. What is the relation between gender in predicting churn?
-# 3. What is the effect of changes in pricing or service plans on customer churn?
-# 4. Are there specific patterns or trends in customer behavior leading to churn?
-# 5. How does the method of payment impact customer churn?
+ 1. What are the key factors influencing customer churn in the organization?
+ 2. What is the relation between gender in predicting churn?
+ 3. What is the effect of changes in pricing or service plans on customer churn?
+ 4. Are there specific patterns or trends in customer behavior leading to churn?
+ 5. How does the method of payment impact customer churn?
 
 #  **Data Understanding**
 
@@ -98,7 +104,7 @@ Test the model and compute accuracy.
 
 Here are links to my powerbi dashboard and article.
 |PowerBi|https://app.powerbi.com/groups/me/reports/5e428c4d-1cde-4c2f-8e84-16d47e008a95/ReportSection?experience=power-bi
-|Article|https://medium.com/@nyamburam12/predicting-customer-churn-in-telecommunication-a-vodafone-case-study-introduction-04b65fa14056|
+|Article|https://medium.com/@samuel47dribsa/vodafone-classification-and-predicting-customer-churn-project-2d56be112f22
 
 # Author.
 Samuel Dribsa and Paragon Group
