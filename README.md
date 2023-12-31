@@ -4,7 +4,7 @@
 2. Keith Omollo>>  https://github.com/K-OMOLLO
 3. Emill Maglo>>   https://github.com/SiperMaglo
 4. Monica Nyambura>> https://github.com/M-travis123
-5. Angelia Nakkungu>>
+5. Angelia Nakkungu>> https://github.com/Nakkungu
 6. Pascal Wambua>>
  
 ## **VODAFONE CLASSIFICATION AND PREDICTING CUSTOMER CHURN PROJECT**
