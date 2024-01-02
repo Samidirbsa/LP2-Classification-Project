@@ -5,7 +5,7 @@
 3. Emill Maglo>>   https://github.com/SiperMaglo
 4. Monica Nyambura>> https://github.com/M-travis123
 5. Angelia Nakkungu>> https://github.com/Nakkungu
-6. Pascal Wambua>>
+6. Pascal Wambua>> https://github.com/KISAINGU
  
 ## **VODAFONE CLASSIFICATION AND PREDICTING CUSTOMER CHURN PROJECT**
 In this project, we aim to find the likelihood of a customer leaving the organization, the key indicators of churn as well as the retention strategies that can be implemented to avert this problem.
